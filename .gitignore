@@ -1,0 +1,16 @@
+# Rider files
+.idea/
+*.sln.iml
+*.ipr
+*.iws
+*.resharper
+_ReSharper*/
+*.dotCover
+*.dotSettings
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+bin/
+obj/
